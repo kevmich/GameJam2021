@@ -2026,3 +2026,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-01.27.02:973][652]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.28-01.27.02:973][652]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.03.28-01.27.02:973][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.28-01.32.13:084][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.03.28-01.37.01:336][436]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.03.28-01.37.01:339][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.076
+[2021.03.28-01.37.01:341][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/SpawnCube] ([1] browsable assets)...
+[2021.03.28-01.37.01:428][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/SpawnCube.SpawnCube]
+[2021.03.28-01.37.01:429][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SpawnCube]
+[2021.03.28-01.37.01:467][436]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnCube_Auto0E61CD2594227CB991EA36191FA3C4166.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/Autosaves/Game/FirstPersonBP/SpawnCube_Auto0.uasset'
+[2021.03.28-01.37.01:471][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/SpawnGoalController] ([1] browsable assets)...
+[2021.03.28-01.37.01:471][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/SpawnGoalController]
+[2021.03.28-01.37.01:532][436]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnGoalController_Auto03CD28E9F45CC5A1034DBD5910F929795.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/Autosaves/Game/FirstPersonBP/SpawnGoalController_Auto0.uasset'
+[2021.03.28-01.37.01:534][436]LogFileHelpers: Auto-saving content packages took 0.195
