@@ -1207,3 +1207,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-00.48.47:690][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.03.28-00.48.47:733][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
 [2021.03.28-00.48.48:061][632]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.03.28-00.56.19:982][ 59]LogAssetRegistry: Error: Package C:/Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap has malformed tag
