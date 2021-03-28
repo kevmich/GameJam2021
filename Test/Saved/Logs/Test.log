@@ -1064,3 +1064,146 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.28-00.31.31:080][849]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/zieba/Documents/GameJam2021'
 [2021.03.28-00.31.31:080][849]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/zieba/Documents/GameJam2021'
 [2021.03.28-00.31.31:549][849]EditorErrors: Warning: No assets to check in!
+[2021.03.28-00.40.48:515][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-00.40.49:788][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GoalPlate)
+[2021.03.28-00.41.22:582][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.28-00.41.24:546][695]LogEditorViewport: Clicking on Actor (LMB): SpawnController_C (SpawnController)
+[2021.03.28-00.43.08:440][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.03.28-00.43.08:476][923]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/FirstPersonExampleMap_Auto80B99ED25455A7B28C156019F839BDB1F.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap'
+[2021.03.28-00.43.08:486][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.082
+[2021.03.28-00.43.08:486][923]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2021.03.28-00.43.19:442][189]LogContentBrowser: Attempting asset rename: SpawnController -> SpawnCubeController
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SpawnCubeController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SpawnCubeController_C' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SpawnCubeController:NewEventDispatcher_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SKEL_SpawnCubeController_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SKEL_SpawnCubeController_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SKEL_SpawnCubeController_C' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:440][189]LogMetaData: Removing '/Game/FirstPersonBP/SpawnCubeController.SpawnCubeController_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnController.PackageMetaData'
+[2021.03.28-00.43.20:503][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SpawnCubeController" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCubeController.uasset" SILENT=true
+[2021.03.28-00.43.20:533][189]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnCubeControllerEF5B9B9D48D4C0E8E7F6869BC727EBA7.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCubeController.uasset'
+[2021.03.28-00.43.21:738][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SpawnController" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnController.uasset" SILENT=true
+[2021.03.28-00.43.21:749][189]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnControllerB95494694C37B934024EC5ACADB35CD0.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnController.uasset'
+[2021.03.28-00.43.22:840][189]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.28-00.43.22:840][189]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SpawnCubeController.SpawnCubeController
+[2021.03.28-00.43.22:840][189]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/SpawnController.SpawnController
+[2021.03.28-00.43.22:840][189]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/SpawnController.Default__SpawnController_C
+[2021.03.28-00.43.22:840][189]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/SpawnController.SpawnController_C
+[2021.03.28-00.43.44:033][713]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.03.28-00.43.44:224][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SpawnCubeController_2" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCubeController_2.uasset" SILENT=true
+[2021.03.28-00.43.44:254][713]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnCubeController_2830A43714799EAD4050F2B9A8F3AC788.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCubeController_2.uasset'
+[2021.03.28-00.43.46:159][713]AssetCheck: New page: Asset Save: SpawnCubeController_2
+[2021.03.28-00.43.46:159][713]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SpawnCubeController_2.SpawnCubeController_2
+[2021.03.28-00.43.49:461][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/SpawnCubeController_2.SpawnCubeController_2
+[2021.03.28-00.44.17:101][664]LogContentBrowser: Attempting asset rename: SpawnCubeController_2 -> SpawnGoalController
+[2021.03.28-00.44.18:073][664]LogMetaData: Removing '/Game/FirstPersonBP/SpawnGoalController.SKEL_SpawnGoalController_C' ref from Metadata '/Game/FirstPersonBP/SpawnCubeController_2.PackageMetaData'
+[2021.03.28-00.44.18:073][664]LogMetaData: Removing '/Game/FirstPersonBP/SpawnGoalController.SpawnGoalController_C' ref from Metadata '/Game/FirstPersonBP/SpawnCubeController_2.PackageMetaData'
+[2021.03.28-00.44.18:073][664]LogMetaData: Removing '/Game/FirstPersonBP/SpawnGoalController.SKEL_SpawnGoalController_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnCubeController_2.PackageMetaData'
+[2021.03.28-00.44.18:073][664]LogMetaData: Removing '/Game/FirstPersonBP/SpawnGoalController.SKEL_SpawnGoalController_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/SpawnCubeController_2.PackageMetaData'
+[2021.03.28-00.44.18:073][664]LogMetaData: Removing '/Game/FirstPersonBP/SpawnGoalController.SpawnGoalController_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnCubeController_2.PackageMetaData'
+[2021.03.28-00.44.18:109][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SpawnGoalController" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnGoalController.uasset" SILENT=true
+[2021.03.28-00.44.18:135][664]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnGoalController7680FE15475C3227CAF15B9F32E0B800.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnGoalController.uasset'
+[2021.03.28-00.44.19:964][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.03.28-00.44.20:010][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.03.28-00.44.20:042][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.28-00.44.20:310][664]SourceControl: rm 'Test/Content/FirstPersonBP/SpawnCubeController_2.uasset'
+[2021.03.28-00.44.20:378][664]AssetCheck: New page: Asset Save: SpawnGoalController
+[2021.03.28-00.44.20:378][664]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SpawnGoalController.SpawnGoalController
+[2021.03.28-00.45.44:735][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.03.28-00.45.45:006][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/SpawnCube_2" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCube_2.uasset" SILENT=true
+[2021.03.28-00.45.45:030][600]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/SpawnCube_2EB12009543CCD4105752D494B1D0D08C.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/SpawnCube_2.uasset'
+[2021.03.28-00.45.46:910][600]AssetCheck: New page: Asset Save: SpawnCube_2
+[2021.03.28-00.45.46:910][600]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/SpawnCube_2.SpawnCube_2
+[2021.03.28-00.45.53:598][771]LogContentBrowser: Attempting asset rename: SpawnCube_2 -> Goal
+[2021.03.28-00.45.54:693][771]LogMetaData: Removing '/Game/FirstPersonBP/Goal.SKEL_Goal_C' ref from Metadata '/Game/FirstPersonBP/SpawnCube_2.PackageMetaData'
+[2021.03.28-00.45.54:693][771]LogMetaData: Removing '/Game/FirstPersonBP/Goal.Goal_C' ref from Metadata '/Game/FirstPersonBP/SpawnCube_2.PackageMetaData'
+[2021.03.28-00.45.54:693][771]LogMetaData: Removing '/Game/FirstPersonBP/Goal.SKEL_Goal_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnCube_2.PackageMetaData'
+[2021.03.28-00.45.54:693][771]LogMetaData: Removing '/Game/FirstPersonBP/Goal.SKEL_Goal_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/SpawnCube_2.PackageMetaData'
+[2021.03.28-00.45.54:693][771]LogMetaData: Removing '/Game/FirstPersonBP/Goal.Goal_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/SpawnCube_2.PackageMetaData'
+[2021.03.28-00.45.54:849][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Goal" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Goal.uasset" SILENT=true
+[2021.03.28-00.45.54:871][771]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/Goal6B2679FE464A59171ADFB4A6E630D7DA.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Goal.uasset'
+[2021.03.28-00.45.56:163][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.03.28-00.45.56:205][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.03.28-00.45.56:236][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.28-00.45.56:468][771]SourceControl: rm 'Test/Content/FirstPersonBP/SpawnCube_2.uasset'
+[2021.03.28-00.45.56:530][771]AssetCheck: New page: Asset Save: Goal
+[2021.03.28-00.45.56:530][771]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Goal.Goal
+[2021.03.28-00.45.58:482][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Goal.Goal
+[2021.03.28-00.46.30:503][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Goal" FILE="../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Goal.uasset" SILENT=true
+[2021.03.28-00.46.30:526][352]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/GoalED1277B142BAB9B3739CDCAC2B7CED01.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Goal.uasset'
+[2021.03.28-00.46.30:542][352]AssetCheck: New page: Asset Save: Goal
+[2021.03.28-00.46.30:542][352]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Goal.Goal
+[2021.03.28-00.46.30:940][359]BlueprintLog: New page: Compile Goal
+[2021.03.28-00.46.31:050][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.03.28-00.46.32:527][393]BlueprintLog: New page: Compile SpawnGoalController
+[2021.03.28-00.46.32:618][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.03.28-00.46.50:766][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.28-00.47.14:386][953]BlueprintLog: New page: Compile SpawnGoalController
+[2021.03.28-00.47.14:481][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.03.28-00.47.39:060][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.03.28-00.47.39:093][848]LogSavePackage: Moving '../../../../../../Users/zieba/Documents/GameJam2021/Test/Saved/FirstPersonExampleMapFA722DE647DAE19A962EBDB3ACB42276.tmp' to '../../../../../../Users/zieba/Documents/GameJam2021/Test/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.28-00.47.39:173][848]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.03.28-00.47.39:173][848]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.28-00.47.47:098][166]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.28-00.47.47:119][166]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.28-00.47.47:122][166]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.03.28-00.47.47:302][166]LogPlayLevel: [PlayLevel] Compiling FirstPersonExampleMap before play...
+[2021.03.28-00.47.47:376][166]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.03.28-00.47.47:377][166]LogPlayLevel: PlayLevel: Blueprint regeneration took 258 ms (2 blueprints)
+[2021.03.28-00.47.47:378][166]PIE: New page: PIE session: FirstPersonExampleMap (Mar 27, 2021, 2:47:47 PM)
+[2021.03.28-00.47.47:378][166]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.28-00.47.47:409][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030924s)
+[2021.03.28-00.47.47:412][166]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.28-00.47.47:412][166]LogPlayLevel: PIE: World Init took: (0.002713s)
+[2021.03.28-00.47.47:412][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033949s)
+[2021.03.28-00.47.47:452][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.03.28-00.47.47:452][166]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.28-00.47.47:453][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.28-00.47.47:453][166]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.28-00.47.47:453][166]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.28-00.47.47:460][166]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.28-00.47.47:460][166]LogAudioMixer: Display: 1: FrontRight
+[2021.03.28-00.47.47:488][166]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.03.28-00.47.47:488][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.28-00.47.47:488][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.28-00.47.47:488][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.28-00.47.47:490][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.28-00.47.47:491][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.28-00.47.47:491][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.28-00.47.47:528][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.28-00.47.47:528][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.28-00.47.47:528][166]LogInit: FAudioDevice initialized.
+[2021.03.28-00.47.47:528][166]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.03.28-00.47.47:578][166]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.28-00.47.47:582][166]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-19.47.47
+[2021.03.28-00.47.47:582][166]LogWorld: Bringing up level for play took: 0.002421
+[2021.03.28-00.47.47:583][166]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.03.28-00.47.47:596][166]LogScript: Warning: Accessed None trying to read property LevelBox
+	SpawnGoalController_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SpawnGoalController_2
+	Function /Game/FirstPersonBP/SpawnGoalController.SpawnGoalController_C:ExecuteUbergraph_SpawnGoalController:0028
+[2021.03.28-00.47.47:598][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LevelBox". Blueprint:  SpawnGoalController Function:  Execute Ubergraph Spawn Goal Controller Graph:  EventGraph Node:  SpawnActor Goal
+[2021.03.28-00.47.47:599][166]LogScript: Warning: Accessed None trying to read property LevelBox
+	SpawnGoalController_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SpawnGoalController_2
+	Function /Game/FirstPersonBP/SpawnGoalController.SpawnGoalController_C:ExecuteUbergraph_SpawnGoalController:0109
+[2021.03.28-00.47.47:599][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property LevelBox". Blueprint:  SpawnGoalController Function:  Execute Ubergraph Spawn Goal Controller Graph:  EventGraph Node:  SpawnActor Goal
+[2021.03.28-00.47.47:601][166]PIE: Server logged in
+[2021.03.28-00.47.47:601][166]PIE: Play in editor total start time 0.485 seconds.
+[2021.03.28-00.47.57:288][554]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=733.873 Y=-205.678 Z=522.433] for [FirstPersonProjectile_C]
+[2021.03.28-00.48.47:613][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-00.48.47:614][631]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.28-00.48.47:614][631]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.28-00.48.47:615][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-00.48.47:633][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.28-00.48.47:647][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.28-00.48.47:687][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.28-00.48.47:688][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-00.48.47:690][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.28-00.48.47:733][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.03.28-00.48.48:061][632]LogPlayLevel: Display: Destroying online subsystem :Context_19
